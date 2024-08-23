@@ -1,0 +1,80 @@
+# Gradle and Android build files
+.gradle/
+build/
+*/build/
+
+# Local configuration files
+.local/
+*.iml
+*.ipr
+*.iws
+*.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# User-specific files
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Android Studio and IntelliJ IDEA specific
+.idea/
+*.iml
+.gradle/
+build/
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Proguard folder
+proguard/
+
+# Android NDK
+obj/
+
+# CMake build folders
+cmake-build-*/
+
+# External native build
+externalNativeBuild/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+
+# MacOS Finder
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Gradle Wrapper files
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Gradle Build files
+*.gradle
+build.gradle
+settings.gradle
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
